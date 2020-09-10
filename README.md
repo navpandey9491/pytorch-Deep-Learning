@@ -30,7 +30,7 @@ This notebook repository now has a [companion website](https://atcold.github.io/
 
 <!-- Arabic -->
 <!--
-🇸🇦 النسخة العربية من ملف `README.md`  [ar](https://github.com/Atcold/pytorch-Deep-Learning/blob/master/docs/ar/README-AR.md) والموقع الالكتروني.
+🇸🇦 النسخة العربية من ملف `ME.md`  [ar](https://github.com/Atcold/pytorch-Deep-Learning/blob/master/docs/ar/README-AR.md) والموقع الالكتروني.
 -->
 
 
